@@ -15,7 +15,7 @@
   * Shijie Zhang | sz2781@columbia.edu
   * Na Zhuo | nz2297@columbia.edu
 
-<br>
+
 **Project summary:**<br>
 Recommender systems are an essential part of any customer facing business. In large scale e-commerce like Amazon, Netflix and others, product recommendations can be personalized across millions of users and products to optimize sales. Companies today use Collaborative Filtering methods to combine data from different users and predict which items will appeal.
 
