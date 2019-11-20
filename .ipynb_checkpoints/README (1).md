@@ -28,8 +28,6 @@ Using cross validation to test PMF parameters, we tuned three parameters to decr
 Again using cross validation for LPCF, we tuned two parameters to decrease error. These factors were the number of features and the weight for regularization. We found these values to be 20 and 0.15, respectively. This gave us an RMSE of 1.10.
 
 
-
-<br>
 **Contribution statement:**
 
 * A2, Probabilistic Matrix Factorization algorithm: Yanan Li, Daniel Weiss, Na Zhuo<br>
