@@ -8,7 +8,6 @@
 **Using Probabilistic Matrix Factorization and Large-Scale Parallel Collaborative Filtering using SVD with KNN**
 
 **Team members**
-
   * Yanan Li | yl4062@columbia.edu
   * Daniel Weiss | dmw2180@columbia.edu
   * Bingquan Wu | bw2585@columbia.edu
@@ -29,7 +28,6 @@ Again using cross validation for LPCF, we tuned two parameters to decrease error
 
 
 **Contribution statement:**
-
 * A2, Probabilistic Matrix Factorization algorithm: Yanan Li, Daniel Weiss, Na Zhuo<br>
 * A3, Large-Scale Parallel Collaborative Filtering algorithm: Bingquan Wu, Shijie Zhang<br>
 * P2, Post Processing SVD with KNN: Yanan Li, Bingquan Wu, Shijie Zhang<br>
@@ -37,7 +35,7 @@ Again using cross validation for LPCF, we tuned two parameters to decrease error
 * Presentation: Yanan Li, Daniel Weiss<br>
 * Presented by Yanan Li<br>
 
-<br>
+
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
 ```
