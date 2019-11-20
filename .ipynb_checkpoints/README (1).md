@@ -13,7 +13,7 @@
   * Bingquan Wu | bw2585@columbia.edu
   * Shijie Zhang | sz2781@columbia.edu
   * Na Zhuo | nz2297@columbia.edu
-
+<br>
 
 **Project summary:**<br>
 Recommender systems are an essential part of any customer facing business. In large scale e-commerce like Amazon, Netflix and others, product recommendations can be personalized across millions of users and products to optimize sales. Companies today use Collaborative Filtering methods to combine data from different users and predict which items will appeal.
@@ -25,7 +25,7 @@ Many new methods were created, this project specifically analyzes Probabilistic 
 Using cross validation to test PMF parameters, we tuned three parameters to decrease error. These were the number of factors for each user and movie and the ratio of variance in ratings to variance in user and movie features, squared. We found these values to be 10 factors and squared feature ratios of 0.1 for users and 0.2 for movies. This gave us an RMSE of 1.15.
 
 Again using cross validation for LPCF, we tuned two parameters to decrease error. These factors were the number of features and the weight for regularization. We found these values to be 20 and 0.15, respectively. This gave us an RMSE of 1.10.
-
+<br>
 
 **Contribution statement:**
 * A2, Probabilistic Matrix Factorization algorithm: Yanan Li, Daniel Weiss, Na Zhuo<br>
@@ -34,7 +34,7 @@ Again using cross validation for LPCF, we tuned two parameters to decrease error
 * Project Summary: Daniel Weiss<br>
 * Presentation: Yanan Li, Daniel Weiss<br>
 * Presented by Yanan Li<br>
-
+<br>
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
