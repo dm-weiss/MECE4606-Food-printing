@@ -25,7 +25,7 @@ Many new methods were created, this project specifically analyzes Probabilistic 
 Using cross validation to test PMF parameters, we tuned three parameters to decrease error. These were the number of factors for each user and movie and the ratio of variance in ratings to variance in user and movie features, squared. We found these values to be 10 factors and squared feature ratios of 0.1 for users and 0.2 for movies. This gave us an RMSE of 1.15.
 
 Again using cross validation for LPCF, we tuned two parameters to decrease error. These factors were the number of features and the weight for regularization. We found these values to be 20 and 0.15, respectively. This gave us an RMSE of 1.10.
-<br>
+<p>&nbsp;</p>
 
 **Contribution statement:**
 * A2, Probabilistic Matrix Factorization algorithm: Yanan Li, Daniel Weiss, Na Zhuo<br>
